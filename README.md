@@ -5,4 +5,8 @@ If you want to have more information, please [click here](https://github.com/kev
 [basic information](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/basicinfo.html)  
   
   
+click [here](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.cpp) to download the Cpp code.  
+click [here](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.exe) to download the .exe file.  
+  
+  
 E-MAIL: KEVIN56348@GMAIL.COM
