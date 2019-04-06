@@ -5,8 +5,12 @@ If you want to have more information, please [click here](https://github.com/kev
 [basic information](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/basicinfo.html)  
   
   
-click [here](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.cpp) to download the Cpp code.  
-click [here](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.exe) to download the .exe file.  
+##File Download:  
+* [Reaction training .cpp file](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.cpp)  
+* [Reaction training .exe file](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.exe)  
+* [Badge](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/badge/badge1.ai)
+* [Font](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/badge/font.ai)
   
   
+##Contact Us  
 E-MAIL: KEVIN56348@GMAIL.COM
