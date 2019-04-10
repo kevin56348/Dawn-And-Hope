@@ -5,12 +5,13 @@ If you want to have more information, please [click here](https://github.com/kev
 [basic information](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/basicinfo.html)  
   
   
-##File Download:  
+## File Download:  
 * [Reaction training .cpp file](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.cpp)  
-* [Reaction training .exe file](https://kevin56348.github.io/Dawn-And-Hope.github.io/timer/React.exe)  
 * [Badge](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/badge/badge1.ai)
 * [Font](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/badge/font.ai)
+* [ShadowsocksR](https://kevin56348/Dawn-And-Hope/Dawn-And-Hope.github.io/basic/Meow.7z)
+* [.Docx File](https://kevin56348.github.io/Dawn-And-Hope.github.io/basic/000.docx)
   
   
-##Contact Us  
-E-MAIL: KEVIN56348@GMAIL.COM
+## Contact Us  
+E-MAIL: TEAMDAWNANDHOPE@GMAIL.COM
